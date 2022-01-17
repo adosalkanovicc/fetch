@@ -21,3 +21,7 @@ background-color: #ffbfbf;
 width: 400px;
 margin: 2em auto;
 }
+li 
+{
+list-style: none;
+}
